@@ -31,11 +31,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/reactbootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=w"><br>
+  <img src="https://img.shields.io/badge/roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=w">&nbsp
+  <img src="https://img.shields.io/badge/yolo-111F68?style=for-the-badge&logo=yolo&logoColor=w"><br>
   <img src="https://img.shields.io/badge/VisualStudio-003791?style=for-the-badge&logo=VisualStudio&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/oracle-AECBFA?style=for-the-badge&logo=oracle&logoColor=black"><br>
+  <img src="https://img.shields.io/badge/github-9E95B7?style=for-the-badge&logo=refinedgithub&logoColor=black">
+  
   
 </p>
