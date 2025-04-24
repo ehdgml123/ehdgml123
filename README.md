@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript-&logoColor=white"/></a>&nbsp 
 </p>
