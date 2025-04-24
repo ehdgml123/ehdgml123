@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">&nbsp
+   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"><br>
 </p>
