@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 aling="center">💻 Tech Stack 💻</h3>
-<h4 aling="center">Techs that I've used at least once</h4>
+<h3 align="center">💻 Tech Stack 💻</h3>
+<h4 align="center">Techs that I've used at least once</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-#1E8CBE?style=flat-square&logo=simpleiconsJava&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
