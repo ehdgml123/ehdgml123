@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4 align="center">Techs that I've used at least once</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black">&nbsp 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">&nbsp
