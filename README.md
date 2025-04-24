@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Lee Dong Hee</h1>
 
 <!--
 **ehdgml123/ehdgml123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
