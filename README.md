@@ -30,7 +30,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/reactbootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=black"><br>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=w"><br>
   <img src="https://img.shields.io/badge/VisualStudio-003791?style=for-the-badge&logo=VisualStudio&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
