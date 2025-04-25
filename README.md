@@ -66,5 +66,25 @@
 
   #### 📱 [휴대폰 가입신청 - Umobile](https://github.com/ehdgml123/Umobile)
 
+  #### 📚 [open API 를 활용한 도서사이트(프론트엔드) - 교보문고](https://github.com/ehdgml123/Kyobo)
+
+  #### 🍞 [디저트 구매(react) - 후앙베이커리](https://github.com/ehdgml123/rone)
+
+  #### 👟 [신발 구매(프론트엔드) - Vans](https://github.com/ehdgml123/Vans)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdgml123&show_icons=true&theme=radical)
+
+
+<h3 align="center">🐇 About Me </h3>
+
+
+<p align="center">
+  <a href="mailto:zee0541@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>&nbsp
+  <a href="mailto:zee0541@gmail.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
+  </a>
+</p>
