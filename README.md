@@ -55,6 +55,23 @@
   <img src="https://img.shields.io/badge/github-9E95B7?style=for-the-badge&logo=refinedgithub&logoColor=black">
 </p>
 
+<br>
+
+<h3 align="center">🐇 About Me </h3>
+
+
+<p align="center">
+  <a href="mailto:zee0541@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a> &nbsp
+  <a href="https://zee0541.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
+  </a>
+</p>
+
+
+<br>
+<br>
 
 <h3 align="center">🛠 Projects 🛠</h3>
   
@@ -72,19 +89,9 @@
 
   #### 👟 [신발 구매(프론트엔드) - Vans](https://github.com/ehdgml123/Vans)
 
+<br>
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdgml123&show_icons=true&theme=radical)
 
-
-<h3 align="center">🐇 About Me </h3>
-
-
-<p align="center">
-  <a href="mailto:zee0541@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>&nbsp
-  <a href="mailto:zee0541@gmail.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
-  </a>
-</p>
